@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Englang": {
+      "commandName": "Project",
+      "commandLineArgs": "example.el test.txt"
+    }
+  }
+}
